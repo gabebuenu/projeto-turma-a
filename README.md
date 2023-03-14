@@ -4,6 +4,7 @@
 
 ## Experiencia:
 
-Aluno. Unimar
+- Aluno. Unimar
+- Desenvolvedor
 
 
